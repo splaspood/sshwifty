@@ -212,7 +212,7 @@ Here is all the options of the configuration file:
       "TLSCertificateFile": "",
 
       // Path to TLS certificate key file. Set empty to use HTTP
-      "TLSCertificateKeyFile": ""
+      "TLSCertificateKeyFile": "",
       
       // Display a short text message on the Home page. Link is supported 
       // through `[Title text](https://link.example.com)` format
